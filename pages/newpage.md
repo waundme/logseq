@@ -1,5 +1,7 @@
 ---
 title: newpage
+published: true
+permalink: newpage
 ---
 
 ## Das ist eine neue Seite.
